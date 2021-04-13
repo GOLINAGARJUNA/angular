@@ -1,3 +1,4 @@
+
 The Angular CLI was used to generate the base project structure with the ng new <project name> command, the CLI is also used to build and serve the application.
   Each feature has it's own folder (account, home & users), other shared/common code such as components, services, models, helpers etc are placed in folders prefixed with an underscore _ to easily differentiate them from features and group them together at the top of the folder structure.
 
