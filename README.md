@@ -18,4 +18,6 @@ TO run this project install npm
  cd angular
  we use ng serve command to run the project.
  https:localhost:4200
+  To get output.
+ 
  
