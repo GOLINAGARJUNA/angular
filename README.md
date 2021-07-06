@@ -19,5 +19,6 @@ TO run this project install npm
  we use ng serve command to run the project.
  https:localhost:4200
   To get output.
+  TO start server use ng serve. 
  
  
