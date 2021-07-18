@@ -20,5 +20,6 @@ TO run this project install npm
  https:localhost:4200
   To get output.
   TO start server use ng serve. 
- 
+ we can use json server to see the data.
+  
  
